@@ -48,9 +48,10 @@ Volume I    Java 核心技术 卷I 基础知识
 
 
     Chapter10   第10章 图形程序设计
-        01. SimpleFrameTest.java                                        ===> 一个在屏幕中显示一个空框架的简单程序
-        02. SizedFrameTest.java                                         ===> 根据屏幕尺寸设置应用尺寸以及设置应用图标
-        
+        01. SimpleFrame                                                  ===> 一个在屏幕中显示一个空框架的简单程序
+        02. SizedFrame                                                   ===> 根据屏幕尺寸设置应用尺寸以及设置应用图标
+        03. notHelloWorld                                                ===> 在应用窗口中绘制文本
+
 
     Chapter11   第11章 事件处理
 
