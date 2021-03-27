@@ -51,7 +51,8 @@ Volume I    Java 核心技术 卷I 基础知识
         01. SimpleFrame                                                  ===> 一个在屏幕中显示一个空框架的简单程序
         02. SizedFrame                                                   ===> 根据屏幕尺寸设置应用尺寸以及设置应用图标
         03. notHelloWorld                                                ===> 在应用窗口中绘制文本
-
+        04. draw                                                         ===> 使用 Graphics2D 绘制图形
+        
 
     Chapter11   第11章 事件处理
 
