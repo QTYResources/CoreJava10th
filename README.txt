@@ -54,8 +54,9 @@ Volume I    Java 核心技术 卷I 基础知识
         04. draw                                                         ===> 使用 Graphics2D 绘制图形
         05. fill                                                         ===> 使用颜色绘制图形或设置背景颜色
         06. listFonts                                                    ===> 列出系统所有可用的字体
-
+        07. font                                                         ===> 获取字符的绘制信息，比如文字宽高
         
+
     Chapter11   第11章 事件处理
 
 
